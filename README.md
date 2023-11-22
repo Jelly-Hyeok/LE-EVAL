@@ -1,4 +1,4 @@
-## :fork_and_knife: 강의 평가 사이트
+## 💼 강의 평가 사이트
 
 ## :open_file_folder: 목차
 * 프로젝트 개요
